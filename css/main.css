@@ -119,12 +119,12 @@ h3 {
   font-size: 1.2em;
 }
 
-h1 a:link, h1 a:visited, h2 a:link, h2 a:visited, h3 a:link, h3 a:visited {
+h1 a:link, h1 a:visited {
   color: #333;
   text-decoration: none;
 }
 
-h1 a:hover, h2 a:hover, h3 a:hover {
+h1 a:hover {
   text-decoration: underline;
 }
 

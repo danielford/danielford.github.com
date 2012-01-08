@@ -18,3 +18,4 @@ A Rhythmbox-inspired frontend/client for the [Music Player Daemon](http://www.mu
 written in C++ using the [wxWidgets](http://www.wxwidgets.org/) GUI toolkit. This was my first
 C++ project, as well as my first foray into real GUI programming (aside from Visual Basic).
 
+

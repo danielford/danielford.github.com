@@ -8,7 +8,7 @@ About Me
 
 I am a software developer currently living in Seattle, Washington. I work for
 [Amazon Web Services](http://aws.amazon.com/) where I build systems to 
-automate the compute infrastructure that powers our cloud-computing services like
+help automate the compute infrastructure that powers the cloud-computing services like
 [EC2](http://aws.amazon.com/ec2/), [S3](http://aws.amazon.com/s3/), and
 [many more](http://aws.amazon.com/products/).
 
@@ -19,18 +19,24 @@ to list there.
 To contact me or to see a full list of my previous experience, please see my
 [LinkedIn profile](http://www.linkedin.com/in/danmford).
 
-### Professional Interests
+Professional Interests
+-----------------------
 
 * [Linux](http://en.wikipedia.org/wiki/Linux)
+* [Git](http://git-scm.com)
 * [Ruby](http://rubylang.org) / [Rails](http://rubyonrails.org)
 * [RSpec](http://rspec.info)
-* [Android programming](http://developer.android.com)
-* Various agile methodologies - BDD, TDD
+* [Android](http://developer.android.com)
+* Various agile methodologies - Scrum, BDD, TDD, etc
 
 
-### Hobbies
+Hobbies
+----------------------
 
 * Home-brewing beer
 * Roasting coffee
+* Cycling (poorly)
+* Reading books and blogs on my [Kindle Fire](http://amazon.com/kindlefire)
+* Collecting [over-priced shiny things](http://apple.com)
 
 
