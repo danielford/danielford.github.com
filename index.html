@@ -1,1 +1,25 @@
-foo bar baz
+---
+layout: main
+---
+
+{% assign first_post = site.posts.first %}
+
+{% if first_post %}
+  <h1>
+    <a href="{{ first_post.url }}">{{ first_post.title }}</a>
+    <div id="post_date"><abbr>published {{ first_post.date | date_to_long_string }}</abbr></div>
+  </h1>
+
+  {{ first_post.content }}
+{% else %}
+
+<h1>No posts found</h1>
+
+{% endif %}
+
+
+
+<hr/>
+
+<a href="/archive.html">« Archive</a>
+
